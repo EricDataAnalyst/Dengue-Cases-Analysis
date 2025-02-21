@@ -30,4 +30,5 @@ What is the ratio of dengue deaths per dengue cases? Is it going lower or higher
 
 
 ## Dashboard Overview
-![den](https://github.com/user-attachments/assets/d5b9696f-de43-478b-b91e-00f7acdedbfe)
+
+![den](https://github.com/user-attachments/assets/e95c1246-2aca-406f-ae54-453202c5ea18)
